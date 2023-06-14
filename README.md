@@ -36,8 +36,8 @@
 ### Key Features <a name="key-features"></a>
 
 
--Provide data with API
--Using Postgresql for database 
+- Provide data with API
+- Using Postgresql for database 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

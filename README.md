@@ -88,7 +88,7 @@ rails server
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Connect API]**
+- [ ] **[Add Different Datas]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
